@@ -12,6 +12,6 @@
 }
 
 body {
-    min-width: 100vw;
-    max-width: 100vh;
+    min-width: 100dvw;
+    max-width: 100dvh;
 }
