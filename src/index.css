@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "FOT-RodinNTLG Pro";
+    src: local("FOT-RodinNTLG Pro"),
+        url("./FOT-RodinNTLGPro-DB.otf") format("opentype");
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+    background-color: #000000;
+    font-family: "FOT-RodinNTLG Pro", sans-serif;
+}
+
+body {
+    min-width: 100vw;
+    max-width: 100vh;
+}
